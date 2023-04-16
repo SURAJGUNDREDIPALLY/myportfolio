@@ -14,7 +14,7 @@ Technologies Used This portfolio is built using HTML, CSS, and JavaScript. It's 
 How to View To view this portfolio, simply visit the following URL:
 
 https://surajgundredipally.github.io/myportfolio/
-
+ 
 Contributing If you'd like to contribute to this repository, feel free to create a pull request. I'm always looking for ways to improve my portfolio and showcase my skills as a software developer.
 
 License This repository is licensed under the MIT License. Feel free to use it as a template for your own portfolio or make modifications as needed.
