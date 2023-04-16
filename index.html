@@ -24,7 +24,7 @@
         </nav>
         <div class="info">
             <h1>Hello, I am <span>Suraj Gundredipally</span></h1>
-            <h1>I'm a Full Stack Developer</h1>
+            <h1>I'm a <span class="multiText"></span></h1>
             <p>Welcome to my official Portfolio Website Where I put all<br> my work related to my projects and many more.</p>
             <a href="img/Resume_Suraj_Gundredipally.pdf" download class="btn">Download CV</a>
         </div>
@@ -39,6 +39,15 @@
             <a href="https://www.linkedin.com/in/suraj-gundredipally" target="_blank"><i class="fab fa-linkedin-in"></i></a>
         </div>
     </div>
-
+    <script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
+    <script>
+        var typingEffect = new Typed(".multiText",{
+            strings : ["Coder","Designer","Full-stack Developer"],
+            loop : true,
+            typeSpeed:100,
+            backSpeed:80,
+            backDelay:1500,
+        })
+    </script>
 </body>
 </html>
