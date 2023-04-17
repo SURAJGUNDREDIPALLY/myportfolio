@@ -12,6 +12,9 @@
     font-family: 'Poppins', sans-serif;
     position: relative;
 }
+.hero a:hover{
+    color: #1589FF;
+}
 nav{
     width: 84%;
     margin: auto;
